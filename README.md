@@ -78,9 +78,31 @@ Traditional retail banking often suffers from three core inefficiencies:
 
 Follow these steps to deploy the "Digital Twin" environment and run the AlphaWiz platform locally.
 
+
 ### Prerequisites
 
 * Python 3.8+
 * Ensure you have set up a virtual environment.
 ```sh
 pip install -r requirements.txt
+```
+Implementation Steps
+Data Generation: Run the data generation script to create the 100k record digital twin.
+
+```sh
+python generate_data.py
+```
+Database Sync: On first launch, the application auto-migrates the CSV data to an optimized SQL schema (alpha_wiz.db).
+
+Launch the Application: XGBoost models are trained and cached automatically for sub-second inference upon startup.
+```sh
+streamlit run app.py
+```
+
+📬 Contact
+Vighnesh Shetty - <a href="https://www.linkedin.com/in/vighnesh-shetty/">LinkedIn</a> - vighneshshetty.2026@gmail.com
+
+Project Link: 
+```sh
+[streamlit run app.py](https://github.com/vighnesh-shetty-vs/AlphaWiz)
+```
