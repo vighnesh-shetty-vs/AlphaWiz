@@ -10,7 +10,7 @@
     <strong>Enterprise-Grade Financial Intelligence & Risk Platform</strong>
     <br />
     <br />
-    <a href="https://your-live-demo-link.streamlit.app/">View Live Demo</a>
+    <a href="[https://your-live-demo-link.streamlit.app/](https://vighnesh-shetty-vs-alphawiz-app-lxsuvq.streamlit.app/)">View Live Demo</a>
     ·
     <a href="https://github.com/vighnesh-shetty-vs/AlphaWiz/issues">Report Bug</a>
     ·
