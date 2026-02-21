@@ -6,3 +6,4 @@ shap
 plotly
 sqlalchemy
 psycopg2-binary
+matplotlib
