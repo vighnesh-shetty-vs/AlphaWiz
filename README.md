@@ -94,7 +94,7 @@ Launch the Application: XGBoost models are trained and cached automatically for 
 streamlit run app.py
 ```
 
-##📬 Contact
+## 📬 Contact
 
 Vighnesh Shetty - <a href="https://www.linkedin.com/in/vighnesh-shetty/">LinkedIn</a> - vighneshshetty.2026@gmail.com
 
