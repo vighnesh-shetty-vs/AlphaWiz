@@ -1,10 +1,7 @@
 <br />
 <p align="center">
-  <a href="https://github.com/vighnesh-shetty-vs/AlphaWiz">
-    <img src="https://i.imgur.com/YOUR_IMAGE_ID.png" alt="AlphaWiz Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">AlphaWiz</h3>
+  <h3 align="center">🏦 AlphaWiz</h3>
 
   <p align="center">
     <strong>Enterprise-Grade Financial Intelligence & Risk Platform</strong>
