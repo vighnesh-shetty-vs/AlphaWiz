@@ -18,7 +18,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#executive-summary">Executive Summary</a></li>
+    <li><a href="# Executive Summary">Executive Summary</a></li>
     <li><a href="#the-problem-landscape">The Problem Landscape</a></li>
     <li><a href="#multi-module-architecture">Multi-Module Architecture</a></li>
     <li><a href="#technical-deep-dive">Technical Deep Dive</a></li>
@@ -99,7 +99,8 @@ Launch the Application: XGBoost models are trained and cached automatically for 
 streamlit run app.py
 ```
 
-📬 Contact
+##📬 Contact
+
 Vighnesh Shetty - <a href="https://www.linkedin.com/in/vighnesh-shetty/">LinkedIn</a> - vighneshshetty.2026@gmail.com
 
 Project Link: 
