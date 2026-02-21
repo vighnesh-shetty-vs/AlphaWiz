@@ -15,19 +15,6 @@
   </p>
 </p>
 
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#executive-summary">Executive Summary</a></li>
-    <li><a href="#the-problem-landscape">The Problem Landscape</a></li>
-    <li><a href="#the-solution-multi-module-architecture">The Solution: Multi-Module Architecture</a></li>
-    <li><a href="#technical-deep-dive">Technical Deep Dive</a></li>
-    <li><a href="#business-results-simulated">Business Results (Simulated)</a></li>
-    <li><a href="#implementation-steps">Implementation Steps</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
----
 
 ## 📌 Executive Summary
 
