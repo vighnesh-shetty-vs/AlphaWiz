@@ -18,21 +18,16 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="# Executive Summary">Executive Summary</a></li>
+    <li><a href="#executive-summary">Executive Summary</a></li>
     <li><a href="#the-problem-landscape">The Problem Landscape</a></li>
-    <li><a href="#multi-module-architecture">Multi-Module Architecture</a></li>
+    <li><a href="#the-solution-multi-module-architecture">The Solution: Multi-Module Architecture</a></li>
     <li><a href="#technical-deep-dive">Technical Deep Dive</a></li>
-    <li><a href="#business-results">Business Results (Simulated)</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#implementation-steps">Implementation Steps</a></li>
-      </ul>
-    </li>
+    <li><a href="#business-results-simulated">Business Results (Simulated)</a></li>
+    <li><a href="#implementation-steps">Implementation Steps</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+---
 
 ## 📌 Executive Summary
 
